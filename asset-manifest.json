@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/worldmap/static/css/main.e72b55f2.chunk.css",
-    "main.js": "/worldmap/static/js/main.d91d2326.chunk.js",
-    "main.js.map": "/worldmap/static/js/main.d91d2326.chunk.js.map",
+    "main.js": "/worldmap/static/js/main.88d4989b.chunk.js",
+    "main.js.map": "/worldmap/static/js/main.88d4989b.chunk.js.map",
     "runtime-main.js": "/worldmap/static/js/runtime-main.a603a3a8.js",
     "runtime-main.js.map": "/worldmap/static/js/runtime-main.a603a3a8.js.map",
     "static/css/2.200264b0.chunk.css": "/worldmap/static/css/2.200264b0.chunk.css",
     "static/js/2.86d515c9.chunk.js": "/worldmap/static/js/2.86d515c9.chunk.js",
     "static/js/2.86d515c9.chunk.js.map": "/worldmap/static/js/2.86d515c9.chunk.js.map",
     "index.html": "/worldmap/index.html",
-    "precache-manifest.6bf4de66f99b6d5a953548373d751f43.js": "/worldmap/precache-manifest.6bf4de66f99b6d5a953548373d751f43.js",
+    "precache-manifest.c32bf849ff2104492b2cfcc29c9ac292.js": "/worldmap/precache-manifest.c32bf849ff2104492b2cfcc29c9ac292.js",
     "service-worker.js": "/worldmap/service-worker.js",
     "static/css/2.200264b0.chunk.css.map": "/worldmap/static/css/2.200264b0.chunk.css.map",
     "static/css/main.e72b55f2.chunk.css.map": "/worldmap/static/css/main.e72b55f2.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.200264b0.chunk.css",
     "static/js/2.86d515c9.chunk.js",
     "static/css/main.e72b55f2.chunk.css",
-    "static/js/main.d91d2326.chunk.js"
+    "static/js/main.88d4989b.chunk.js"
   ]
 }
