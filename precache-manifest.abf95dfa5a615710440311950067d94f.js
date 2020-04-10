@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "651ee90142cbe1cc9cc7d47305f12e70",
+    "revision": "c0077eeaf71ff6c5947067969a2f283f",
     "url": "/worldmap/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/worldmap/static/css/11.fa4a79a6.chunk.css"
   },
   {
-    "revision": "360243714d52711371e1",
+    "revision": "5aea375d1a77e3da7dd9",
     "url": "/worldmap/static/css/41.d76ae924.chunk.css"
   },
   {
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/worldmap/static/js/18.ec0f5510.chunk.js"
   },
   {
-    "revision": "1e206a2701b016880fd1",
-    "url": "/worldmap/static/js/19.d4b295c3.chunk.js"
+    "revision": "2ddfa3dd472709750b40",
+    "url": "/worldmap/static/js/19.0b8cda77.chunk.js"
   },
   {
     "revision": "2a4bc92ca5ed024b4962",
@@ -180,8 +180,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/worldmap/static/js/40.347ed2c7.chunk.js"
   },
   {
-    "revision": "360243714d52711371e1",
-    "url": "/worldmap/static/js/41.93693e2b.chunk.js"
+    "revision": "5aea375d1a77e3da7dd9",
+    "url": "/worldmap/static/js/41.7686f222.chunk.js"
   },
   {
     "revision": "4c320b92d0595147612e",
@@ -256,8 +256,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/worldmap/static/js/main.cb765c9e.chunk.js"
   },
   {
-    "revision": "387dea4c2f8ab389cd46",
-    "url": "/worldmap/static/js/runtime-main.267c3e09.js"
+    "revision": "67ecfb411ac2aeca3fc5",
+    "url": "/worldmap/static/js/runtime-main.d5447ce2.js"
   },
   {
     "revision": "0087dce419a7376eb06c837f740d31eb",
