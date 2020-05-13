@@ -1,11 +1,11 @@
 {
-  "short_name": "Worldmap App",
-  "name": "Worldmap app Created with React ",
+  "short_name": "Covid-19 tracker",
+  "name": "Covid-19 tracker dashboard powered by CoreUI-React sample",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "./assets/img/favicon.png",
+      "sizes": "100x100",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
